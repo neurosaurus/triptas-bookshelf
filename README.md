@@ -23,18 +23,20 @@ I'll aim to include the following:
 - [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Coders at Work: Reflections on the Craft of Programming](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
-
 - [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
 - [Rails 3 in Action](http://www.amazon.com/Rails-3-Action-Ryan-Bigg/dp/1935182277)
 - [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 
-####Ruby:
+####Ruby/Rails:
 - [The Well-Grounded Rubyist](http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657)
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros/dp/1934356476)
+- [The RSpec Book: Behaviour Driven Development with Rspec, Cucumber, and Friends](http://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379)
+- [Agile Web Development with Rails, Third Edition](http://www.amazon.com/Agile-Development-Rails-Third-Edition/dp/1934356166)
+- [Design Patterns in Ruby](http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452)
 
 ####Javascript:
 - [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
-
+- [jQuery in Action, Second Edition](http://www.amazon.com/jQuery-Action-Second-Bear-Bibeault/dp/1935182323)
 
 ####UX: 
 - [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107)
